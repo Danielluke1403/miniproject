@@ -1,5 +1,7 @@
 #code for cafe system
 #welcome message
+#new text
+
 print("hello welcome to the resteraunt")
 #displaying menu
 menu={
